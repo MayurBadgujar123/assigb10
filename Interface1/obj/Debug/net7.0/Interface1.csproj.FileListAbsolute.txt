@@ -1,0 +1,15 @@
+D:\.NET\day3\Interface1\bin\Debug\net7.0\Interface1.exe
+D:\.NET\day3\Interface1\bin\Debug\net7.0\Interface1.deps.json
+D:\.NET\day3\Interface1\bin\Debug\net7.0\Interface1.runtimeconfig.json
+D:\.NET\day3\Interface1\bin\Debug\net7.0\Interface1.dll
+D:\.NET\day3\Interface1\bin\Debug\net7.0\Interface1.pdb
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.csproj.AssemblyReference.cache
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.AssemblyInfoInputs.cache
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.AssemblyInfo.cs
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.csproj.CoreCompileInputs.cache
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.dll
+D:\.NET\day3\Interface1\obj\Debug\net7.0\refint\Interface1.dll
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.pdb
+D:\.NET\day3\Interface1\obj\Debug\net7.0\Interface1.genruntimeconfig.cache
+D:\.NET\day3\Interface1\obj\Debug\net7.0\ref\Interface1.dll

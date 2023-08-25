@@ -1,0 +1,15 @@
+D:\.NET\day3\ASSIGNMENT-3\bin\Debug\net7.0\Employee3.exe
+D:\.NET\day3\ASSIGNMENT-3\bin\Debug\net7.0\Employee3.deps.json
+D:\.NET\day3\ASSIGNMENT-3\bin\Debug\net7.0\Employee3.runtimeconfig.json
+D:\.NET\day3\ASSIGNMENT-3\bin\Debug\net7.0\Employee3.dll
+D:\.NET\day3\ASSIGNMENT-3\bin\Debug\net7.0\Employee3.pdb
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.csproj.AssemblyReference.cache
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.AssemblyInfoInputs.cache
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.AssemblyInfo.cs
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.csproj.CoreCompileInputs.cache
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.dll
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\refint\Employee3.dll
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.pdb
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\Employee3.genruntimeconfig.cache
+D:\.NET\day3\ASSIGNMENT-3\obj\Debug\net7.0\ref\Employee3.dll
